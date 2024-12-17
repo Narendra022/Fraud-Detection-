@@ -39,14 +39,15 @@ xgboost
 You can install the required dependencies using pip:
 
 bash
-Copy code
+
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ## Installation and Setup
 
 Clone the repository to your local system:
 bash
-Copy code
-git clone https://github.com/your-username/fraud-detection.git
+
+
+git clone (https://github.com/Narendra022/Fraud-Detection)
 cd fraud-detection
 Install the dependencies using the requirements above.
 Ensure the dataset is stored in the following structure:

@@ -57,7 +57,7 @@ Copy code
         - bs140513_032310.csv
 Run the Python script to execute the project:
 bash
-Copy code
+
 python fraud_detection.py
 ## Data Preprocessing
 
@@ -71,6 +71,7 @@ K-Nearest Neighbors (KNN)
 Random Forest Classifier
 XGBoost Classifier
 Ensemble Voting Classifier combining all models with soft voting.
+
 ## Evaluation
 The models were evaluated using the following metrics:
 

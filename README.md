@@ -1,13 +1,13 @@
 # Fraud Detection in Financial Payment Systems
 
-#Project Overview
+# Project Overview
 
 This project focuses on detecting fraudulent transactions in a financial payment system using machine learning models. The dataset is analyzed, preprocessed, and evaluated using K-Nearest Neighbors (KNN), Random Forest, XGBoost, and an Ensemble Voting Classifier.
 
 The objective is to build a robust fraud detection system that balances precision, recall, and overall accuracy to minimize false positives and detect fraud effectively.
 
 
-#Table of Contents
+# Table of Contents
 Project Overview
 Dataset Information
 Requirements
@@ -27,7 +27,7 @@ Target Variable: fraud (1 for fraudulent transactions, 0 for non-fraudulent).
 Number of Samples: Over 500,000 records.
 The dataset can be downloaded here (provide link if available).
 
-#Requirements
+# Requirements
 To run this project, ensure the following libraries and packages are installed:
 
 Python (3.7 or higher)
@@ -94,7 +94,7 @@ XGBoost	0.90	0.91	0.90	0.97
 Ensemble Classifier	0.88	0.95	0.91	0.98
 The Ensemble Voting Classifier achieved the best balance between recall and precision, minimizing false positives while detecting fraud effectively.
 
-#Usage
+## Usage
 Clone the repository and install dependencies.
 Replace the dataset with your own financial transaction dataset.
 Run the fraud_detection.py script or the notebook.
@@ -105,10 +105,10 @@ LinkedIn: Your LinkedIn
 GitHub: Your GitHub
 Feel free to contribute by submitting issues or pull requests!
 
-#License
+## License
 This project is licensed under the MIT License.
 
-#Additional Files
+## Additional Files
 fraud_detection.py: Main script file.
 requirements.txt: List of required Python libraries.
 Data/: Folder to store your dataset.

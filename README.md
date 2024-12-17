@@ -47,7 +47,7 @@ Clone the repository to your local system:
 bash
 
 
-git clone (https://github.com/Narendra022/Fraud-Detection)
+git clone (https://github.com/Narendra022/Fraud-Detection-)
 cd fraud-detection
 Install the dependencies using the requirements above.
 Ensure the dataset is stored in the following structure:

@@ -83,10 +83,10 @@ Base Benchmark: The baseline accuracy is set by predicting all transactions as n
 
 ## Results
 
-KNN: Balanced performance with precision and recall trade-offs.
-Random Forest: High recall but relatively lower precision for fraudulent class.
-XGBoost: Achieved high precision and recall with optimized hyperparameters.
-Ensemble Classifier: Combined the strengths of the models to improve overall performance.
+- KNN: Balanced performance with precision and recall trade-offs.
+- Random Forest: High recall but relatively lower precision for fraudulent class.
+- XGBoost: Achieved high precision and recall with optimized hyperparameters.
+- Ensemble Classifier: Combined the strengths of the models to improve overall performance.
 ## Usage
 
 Run the project script:

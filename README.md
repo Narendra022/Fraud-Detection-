@@ -29,13 +29,13 @@ The data is processed to remove unnecessary columns and encode categorical varia
 ## Requirements
 The following libraries and dependencies are required to run this project:
 
-Python >= 3.8
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+- Python >= 3.8
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
 You can install the required dependencies using pip:
 
 bash
@@ -68,10 +68,10 @@ Split the data into training and testing sets using stratified sampling.
 ## Model Training
 The following models were implemented:
 
-K-Nearest Neighbors (KNN)
-Random Forest Classifier
-XGBoost Classifier
-Ensemble Voting Classifier combining all models with soft voting.
+- K-Nearest Neighbors (KNN)
+- Random Forest Classifier
+- XGBoost Classifier
+- Ensemble Voting Classifier combining all models with soft voting.
 
 ## Evaluation
 The models were evaluated using the following metrics:
